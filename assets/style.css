@@ -1,0 +1,55 @@
+.pc {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.qc {
+    text-align: center;
+    margin-top: 0;
+}
+
+.boss {
+    color: green;
+}
+
+.col {
+    color: blue;
+}
+
+#text {
+    text-align: center;
+}
+
+#text .sty {
+    background-color: pink;
+    color: red;
+}
+
+#text .blu {
+    background-color: yellow;
+    color: blue;
+}
+#text .red {
+    background-color: yellow;
+    color: red;
+}
+#text .gree {
+    background-color: yellow;
+    color: green;
+}
+#back {
+    background-color: #a06d21;
+}
+
+#back .btc {
+    font-weight: bold;
+    color: #fc0;
+    text-align: center;
+}
+#back .img {
+    background-image: url('assets/zero.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
